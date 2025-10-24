@@ -39,4 +39,3 @@ A través de los análisis y visualizaciones, se obtendrán indicadores sobre te
 
 ---
 
-📊 En conjunto, estas cinco dimensiones consolidan el enfoque **Big Data de “Bake IT!”**, permitiendo demostrar su **viabilidad técnica** y su **potencial analítico** dentro del contexto de la transformación digital del sector gastronómico.
